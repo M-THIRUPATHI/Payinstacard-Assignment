@@ -1,0 +1,17 @@
+.main-container {
+  background-color: black;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  height: 40%;
+  width: 40%;
+  font-family: "Roboto";
+  border-radius: 10px;
+}

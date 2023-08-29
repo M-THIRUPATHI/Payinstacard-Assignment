@@ -1,0 +1,37 @@
+.nav-element {
+  display: flex;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: center;
+  background-color: aquamarine;
+  height: 10vh;
+  width: 100vw;
+}
+.unorder-list {
+  list-style-type: none;
+  font-family: "Roboto";
+  display: flex;
+  padding-left: 20px;
+}
+.list-item {
+  padding-right: 20px;
+  font-size: 18px;
+}
+.logout-button {
+  align-self: start;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 14px;
+  background-color: #df1089;
+  color: #f2eded;
+  margin-bottom: 2px;
+  border-radius: 5px;
+  border: 2px solid;
+  outline: none;
+  cursor: pointer;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 14px;
+  padding-right: 14px;
+  margin-right: 24px;
+}
